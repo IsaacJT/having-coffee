@@ -1,0 +1,4 @@
+baseURL: "https://having.coffee/"
+languageCode: "en-nz"
+title: "having.coffee"
+theme: "github.com/theNewDynamic/gohugo-theme-ananke"
